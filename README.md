@@ -18,7 +18,7 @@ The mission of this project is to build a robust ecosystem for data-driven resea
 - **Containerization:** Docker & Docker Compose (Environment isolation).
 - **Data Management:** SQL & NoSQL integration, JSON/CSV automated processing.
 - **Infrastructure:** Advanced Linux Administration (Systemd, Cron jobs, SSH tunneling).
-- **Environment:** Optimized for high-performance deep work within a **bspwm** tiling window manager.
+- **Environment:** Optimized for high-performance deep work within a **Hyprland** tiling window manager.
 
 ---
 
